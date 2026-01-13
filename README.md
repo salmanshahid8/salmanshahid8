@@ -2,8 +2,6 @@
 
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=salmanshahid8 alt=salmanshahid8/> </p>
 
-[![pages-build-deployment](https://github.com/salmanshahid8/salmanshahid8.github.io/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/salmanshahid8/salmanshahid8.github.io/actions/workflows/pages/pages-build-deployment)
-
 ## Hi there, I am Salman 👋
 
 I am a research engineer in a French lab 🔬. In parallel, I am also an adjunct professor in a French university 🎓 and working as a council member in a working group of [Grenoble Alpes Metropole](https://c2d.grenoblealpesmetropole.fr/1409-qui-sommes-nous.htm) 👨‍⚖️🏛️. 
