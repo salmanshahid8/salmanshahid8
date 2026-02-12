@@ -98,4 +98,4 @@ Here are some of the stacks on which I gained expertise:
 #### 📫 You can reach me on LinkedIn:
 
 <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="salmanshahid8" data-version="v1"></div>
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="salmanshahid8" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://fr.linkedin.com/in/salmanshahid8?trk=profile-badge">Muhammad Salman Shahid</a></div>
