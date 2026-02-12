@@ -13,7 +13,7 @@ I completed my [PhD in Energy Flexibility 🪫🎚️🔋 from Université Greno
 * Working on NLP 📄 and AI Agents 🤖
 * Automating stuff 🛠️ in production 🏭📦
 
-Here are some of the stacks on which I gained expertise:
+Here are the stacks on which I gained expertise:
 
 ### 🖥️ Operating Systems & Core Environment
 
